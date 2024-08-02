@@ -1,0 +1,36 @@
+h1 {
+    color: brown;
+    background-color: grey;
+    text-align: center;
+
+}
+body {
+    background-color: black;
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: red
+}
+
+a{
+    color: yellow;
+}
+
+video{
+    width: 400px;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: aqua;
+}
+
+#mainDescription{
+    color: blueviolet;
+    font-size: 90px ;
+}
